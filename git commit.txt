@@ -1,0 +1,7 @@
+git init 
+git add (檔名)
+git commit -m(備註)
+git push origin master
+
+git pull --rebase origin master
+git push
